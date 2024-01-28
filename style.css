@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(/images/+AqP6A\ \(1\).png);
+  background-image: url(./images/+AqP6A\ \(1\).png);
   background-size: cover;
   background-position: center;
   
@@ -95,15 +95,15 @@ h3 {
 }
 
 .img-first {
-  background-image: url(/images/+AqP6A\ \(1\).png);
+  background-image: url(./images/+AqP6A\ \(1\).png);
 }
 
 .img-second {
-  background-image: url(/images/K2dQlE.png);
+  background-image: url(./images/K2dQlE.png);
 }
 
 .img-third {
-  background-image: url(/images/ddPx1k.png);
+  background-image: url(./images/ddPx1k.png);
 }
 
 .second {
