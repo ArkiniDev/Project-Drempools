@@ -28,12 +28,14 @@ body {
 h1 {
   font-weight: 700;
   font-size: 3rem;
+  --color: #ffffff; 
 }
 
 p {
   max-width: 52ch;
   line-height: 1.5;
   padding: 1em;
+  --color: #ffffff; 
 }
 
 a {
